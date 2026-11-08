@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/skypilot-org/new-cloud-skeleton/commit/94409beacc6a934840076399f5f01a9059945663",
       "git:hexsha": "94409beacc6a934840076399f5f01a9059945663",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T06:35:59.706451+00:00"
     }
   ]
 }
