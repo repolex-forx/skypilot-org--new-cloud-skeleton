@@ -1,0 +1,11 @@
+{
+  "org": "skypilot-org",
+  "repo": "new-cloud-skeleton",
+  "versions": [
+    {
+      "commit": "94409beacc6a934840076399f5f01a9059945663",
+      "tag": "",
+      "parsed_at": "2026-11-08T06:35:59.707064+00:00"
+    }
+  ]
+}
