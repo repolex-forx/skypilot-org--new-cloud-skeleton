@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "skypilot-org",
+  "repo": "new-cloud-skeleton",
+  "versions": [
+    {
+      "commit": "94409beacc6a934840076399f5f01a9059945663",
+      "parsed_at": "2026-11-08T06:33:31.121333+00:00",
+      "filetree": "filetree/94409beacc6a934840076399f5f01a9059945663.nq.gz",
+      "blobs": [
+        "blob/c805eeb72ef7d6654e45ffe826d97957e377d04a.nq.gz",
+        "blob/584b9607636df0fe92ea5bf303ab4edda5ec202d.nq.gz",
+        "blob/9c0708decc5d6d1040c296e86b8e8cedf8aa0a48.nq.gz",
+        "blob/9906642066be74bbbbc293dda4aa442e3987732f.nq.gz",
+        "blob/601e981466d41543b1f652d54d49b5fe27c4a3c7.nq.gz",
+        "blob/6f0bc29b02cc962c74642b6746e8fc34ce9c4e64.nq.gz",
+        "blob/baa152f1395ccc1e0a22e37dd7738980c7c6289c.nq.gz",
+        "blob/3694a597333da6809f11485e516576747583fd51.nq.gz",
+        "blob/68bc17f9ff2104a9d7b6777058bb4c343ca72609.nq.gz",
+        "blob/35122b7910cf07e2f002acfce094a75dc52bf646.nq.gz",
+        "blob/158b09a82ed9b3270f1e9b99ef192acd66b44d30.nq.gz",
+        "blob/7ef4d479e54b782b56f368ce3889016719e3bd4b.nq.gz",
+        "blob/e2b1756e857a92f63267e5dadbe2c1da9cd39b9b.nq.gz",
+        "blob/0327ed31c82a4b872257854e1ecbb0c53a9a8e2c.nq.gz",
+        "blob/cbfb7b65821835e778d91be2899ab6b1f1f1a374.nq.gz",
+        "blob/5e53478422d0ab72cf8ccf4d1c1dff51ab379aea.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/25da13fb911655a3ce9f439d9c5b983547fdf6a0.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
